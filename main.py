@@ -1,3 +1,9 @@
+;==========================================
+; Title:  College Management System
+; Author: Akash Singh
+; Date:   7 Dec 2019
+;==========================================
+
 from tkinter import *
 import tkinter
 from tkinter import messagebox
